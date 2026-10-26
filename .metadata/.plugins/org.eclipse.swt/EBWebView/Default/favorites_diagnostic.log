@@ -1,0 +1,19 @@
+2026-10-26 07:56:25.737: [INFO] CurrentProfilePath: D:\HCL Automation Training\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 07:56:25.737: [INFO] Profiles total count: 1
+2026-10-26 07:56:25.737: [INFO] Profile: name=Profile 1 path=D:\HCL Automation Training\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-26 07:56:25.737: [INFO] LastUsedProfileDir: D:\HCL Automation Training\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 07:56:25.737: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 07:56:25.737: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 07:56:25.737: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 07:56:25.737: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 07:56:45.603: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 07:56:46.416: [INFO] CurrentProfilePath: D:\HCL Automation Training\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 07:56:46.416: [INFO] Profiles total count: 1
+2026-10-26 07:56:46.416: [INFO] Profile: name=Profile 1 path=D:\HCL Automation Training\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-26T07:56:28.700Z
+2026-10-26 07:56:46.416: [INFO] LastUsedProfileDir: D:\HCL Automation Training\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 07:56:46.416: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\HCL Automation Training\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-26T07:56:28.700Z
+2026-10-26 07:56:46.416: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 07:56:46.416: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 07:56:46.416: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 07:56:46.416: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 08:00:25.042: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
